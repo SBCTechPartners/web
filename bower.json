@@ -1,0 +1,19 @@
+{
+  "name": "SBCTechPartners",
+  "version": "0.0.1",
+  "homepage": "https://github.com/SBCTechPartners/web",
+  "authors": [
+    "Steve Hartzog <steve.hartzog@mpsbroadband.com>"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "bootstrap": "~3.1.1"
+  }
+}

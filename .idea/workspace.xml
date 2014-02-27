@@ -1,7 +1,35 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1d97c2d4-9977-4559-bd37-a9e05b9fbabe" name="Default" comment="">
+    <list default="true" id="1d97c2d4-9977-4559-bd37-a9e05b9fbabe" name="Default" comment="minor additions">
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bower.json" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/site.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/css/site.less" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\AboutUs.html" afterPath="$PROJECT_DIR$/public/AboutUs.html" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\Careers.html" afterPath="$PROJECT_DIR$/public/Careers.html" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\Home.html" afterPath="$PROJECT_DIR$/public/index.html" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\Partners.html" afterPath="$PROJECT_DIR$/public/Partners.html" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\css\WstUserAdvancedStyles.css" afterPath="$PROJECT_DIR$/public/css/WstUserAdvancedStyles.css" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\css\color_1.css" afterPath="$PROJECT_DIR$/public/css/color_1.css" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\css\custom.css" afterPath="$PROJECT_DIR$/public/css/custom.css" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\css\layoutcontainer.css" afterPath="$PROJECT_DIR$/public/css/layoutcontainer.css" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\css\theme.css" afterPath="$PROJECT_DIR$/public/css/theme.css" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\452.png" afterPath="$PROJECT_DIR$/public/img/452.png" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\board.jpg" afterPath="$PROJECT_DIR$/public/img/board.jpg" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\cords.jpg" afterPath="$PROJECT_DIR$/public/img/cords.jpg" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\l_0000_a.jpg" afterPath="$PROJECT_DIR$/public/img/l_0000_a.jpg" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\l_0001_b.jpg" afterPath="$PROJECT_DIR$/public/img/l_0001_b.jpg" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\l_0002_c.jpg" afterPath="$PROJECT_DIR$/public/img/l_0002_c.jpg" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\l_0003_d.jpg" afterPath="$PROJECT_DIR$/public/img/l_0003_d.jpg" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\l_0004_e.jpg" afterPath="$PROJECT_DIR$/public/img/l_0004_e.jpg" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\l_0005_f.jpg" afterPath="$PROJECT_DIR$/public/img/l_0005_f.jpg" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\l_0006_g.jpg" afterPath="$PROJECT_DIR$/public/img/l_0006_g.jpg" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\l_0007_h.jpg" afterPath="$PROJECT_DIR$/public/img/l_0007_h.jpg" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\l_0008_i.jpg" afterPath="$PROJECT_DIR$/public/img/l_0008_i.jpg" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\sbc.png" afterPath="$PROJECT_DIR$/public/img/sbc.png" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\img\sbc_4r4l.png" afterPath="$PROJECT_DIR$/public/img/sbc_4r4l.png" />
+      <change type="MOVED" beforePath="C:\git\SBCTechPartners\js\imageSwap.js" afterPath="$PROJECT_DIR$/public/js/imageSwap.js" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="SBCTechPartners.iws" />
@@ -26,9 +54,9 @@
   <component name="FileEditorManager">
     <leaf>
       <file leaf-file-name="AboutUs.html" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/AboutUs.html">
+        <entry file="file://$PROJECT_DIR$/public/AboutUs.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="9" column="17" selection-start="895" selection-end="895" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="3077">
+            <state line="93" column="27" selection-start="5920" selection-end="5920" vertical-scroll-proportion="0.33289987" vertical-offset="1325" max-vertical-offset="3077">
               <folding>
                 <element signature="n#style#0;n#span#2;n#div#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#10;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -36,19 +64,57 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Partners.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Partners.html">
+      <file leaf-file-name="color_1.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/color_1.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="82" column="26" selection-start="3931" selection-end="3931" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="5746">
+            <state line="6" column="0" selection-start="67" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="imageSwap.js" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/js/imageSwap.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="2" selection-end="1086" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="459">
+              <folding>
+                <element signature="n#!!doc" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="layoutcontainer.css" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/css/layoutcontainer.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Partners.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/Partners.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="88" column="5" selection-start="4411" selection-end="4411" vertical-scroll-proportion="-13.115385" vertical-offset="1155" max-vertical-offset="5746">
               <folding />
             </state>
           </provider>
         </entry>
       </file>
       <file leaf-file-name="Careers.html" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/Careers.html">
+        <entry file="file://$PROJECT_DIR$/public/Careers.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="90" column="12" selection-start="5649" selection-end="5649" vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2176">
+            <state line="69" column="45" selection-start="3718" selection-end="3718" vertical-scroll-proportion="-9.846154" vertical-offset="917" max-vertical-offset="2176">
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/public/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state line="75" column="57" selection-start="3799" selection-end="3799" vertical-scroll-proportion="-9.846154" vertical-offset="1019" max-vertical-offset="2448">
               <folding />
             </state>
           </provider>
@@ -71,10 +137,20 @@
         <option value="$PROJECT_DIR$/Careers.html" />
         <option value="$PROJECT_DIR$/Partners.html" />
         <option value="$PROJECT_DIR$/AboutUs.html" />
+        <option value="$PROJECT_DIR$/bower.json" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+        <option value="$PROJECT_DIR$/public/css/site.less" />
+        <option value="$PROJECT_DIR$/public/css/custom.css" />
+        <option value="$PROJECT_DIR$/public/js/imageSwap.js" />
+        <option value="$PROJECT_DIR$/public/AboutUs.html" />
+        <option value="$PROJECT_DIR$/public/Careers.html" />
+        <option value="$PROJECT_DIR$/public/index.html" />
+        <option value="$PROJECT_DIR$/public/Partners.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds">
+    <option name="x" value="1280" />
     <option name="width" value="1280" />
     <option name="height" value="1400" />
   </component>
@@ -85,7 +161,7 @@
     <OptionsSetting value="true" id="Update" />
     <OptionsSetting value="true" id="Status" />
     <OptionsSetting value="true" id="Edit" />
-    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="2" id="Add" />
     <ConfirmationsSetting value="0" id="Remove" />
   </component>
   <component name="ProjectReloadState">
@@ -122,6 +198,38 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SBCTechPartners" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SBCTechPartners" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SBCTechPartners" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="SBCTechPartners" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="public" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="js" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="Scope" />
@@ -131,6 +239,11 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="FullScreen" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\git\SBCTechPartners\public" />
+    </key>
   </component>
   <component name="RunManager">
     <configuration default="true" type="DartUnitRunConfigurationType" factoryName="DartUnit">
@@ -207,13 +320,14 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="0" y="0" width="1280" height="1400" extended-state="0" />
+    <frame x="1280" y="0" width="1280" height="1400" extended-state="0" />
     <editor active="false" />
     <layout>
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.329582" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.24939662" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
@@ -224,7 +338,6 @@
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -243,13 +356,14 @@
       <TodoPanelSettings />
     </option>
     <MESSAGE value="initial commit&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;#&#10;# Initial commit&#10;#&#10;# Changes to be committed:&#10;#   (use &quot;git rm --cached &lt;file&gt;...&quot; to unstage)&#10;#&#10;#&#9;new file:   .idea/.name&#10;#&#9;new file:   .idea/SBCTechPartners.iml&#10;#&#9;new file:   .idea/encodings.xml&#10;#&#9;new file:   .idea/inspectionProfiles/Project_Default.xml&#10;#&#9;new file:   .idea/inspectionProfiles/profiles_settings.xml&#10;#&#9;new file:   .idea/misc.xml&#10;#&#9;new file:   .idea/modules.xml&#10;#&#9;new file:   .idea/scopes/scope_settings.xml&#10;#&#9;new file:   .idea/vcs.xml&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   AboutUs.html&#10;#&#9;new file:   Careers.html&#10;#&#9;new file:   Home.html&#10;#&#9;new file:   Partners.html&#10;#&#9;new file:   css/WstUserAdvancedStyles.css&#10;#&#9;new file:   css/color_1.css&#10;#&#9;new file:   css/custom.css&#10;#&#9;new file:   css/layoutcontainer.css&#10;#&#9;new file:   css/theme.css&#10;#&#9;new file:   img/452.png&#10;#&#9;new file:   img/board.jpg&#10;#&#9;new file:   img/cords.jpg&#10;#&#9;new file:   img/l_0000_a.jpg&#10;#&#9;new file:   img/l_0001_b.jpg&#10;#&#9;new file:   img/l_0002_c.jpg&#10;#&#9;new file:   img/l_0003_d.jpg&#10;#&#9;new file:   img/l_0004_e.jpg&#10;#&#9;new file:   img/l_0005_f.jpg&#10;#&#9;new file:   img/l_0006_g.jpg&#10;#&#9;new file:   img/l_0007_h.jpg&#10;#&#9;new file:   img/l_0008_i.jpg&#10;#&#9;new file:   img/sbc.png&#10;#&#9;new file:   img/sbc_4r4l.png&#10;#&#9;new file:   js/imageSwap.js&#10;#&#10;" />
-    <option name="LAST_COMMIT_MESSAGE" value="initial commit&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;#&#10;# Initial commit&#10;#&#10;# Changes to be committed:&#10;#   (use &quot;git rm --cached &lt;file&gt;...&quot; to unstage)&#10;#&#10;#&#9;new file:   .idea/.name&#10;#&#9;new file:   .idea/SBCTechPartners.iml&#10;#&#9;new file:   .idea/encodings.xml&#10;#&#9;new file:   .idea/inspectionProfiles/Project_Default.xml&#10;#&#9;new file:   .idea/inspectionProfiles/profiles_settings.xml&#10;#&#9;new file:   .idea/misc.xml&#10;#&#9;new file:   .idea/modules.xml&#10;#&#9;new file:   .idea/scopes/scope_settings.xml&#10;#&#9;new file:   .idea/vcs.xml&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   AboutUs.html&#10;#&#9;new file:   Careers.html&#10;#&#9;new file:   Home.html&#10;#&#9;new file:   Partners.html&#10;#&#9;new file:   css/WstUserAdvancedStyles.css&#10;#&#9;new file:   css/color_1.css&#10;#&#9;new file:   css/custom.css&#10;#&#9;new file:   css/layoutcontainer.css&#10;#&#9;new file:   css/theme.css&#10;#&#9;new file:   img/452.png&#10;#&#9;new file:   img/board.jpg&#10;#&#9;new file:   img/cords.jpg&#10;#&#9;new file:   img/l_0000_a.jpg&#10;#&#9;new file:   img/l_0001_b.jpg&#10;#&#9;new file:   img/l_0002_c.jpg&#10;#&#9;new file:   img/l_0003_d.jpg&#10;#&#9;new file:   img/l_0004_e.jpg&#10;#&#9;new file:   img/l_0005_f.jpg&#10;#&#9;new file:   img/l_0006_g.jpg&#10;#&#9;new file:   img/l_0007_h.jpg&#10;#&#9;new file:   img/l_0008_i.jpg&#10;#&#9;new file:   img/sbc.png&#10;#&#9;new file:   img/sbc_4r4l.png&#10;#&#9;new file:   js/imageSwap.js&#10;#&#10;" />
+    <MESSAGE value="minor additions" />
+    <option name="LAST_COMMIT_MESSAGE" value="minor additions" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/AboutUs.html">
+    <entry file="file://$PROJECT_DIR$/public/AboutUs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="17" selection-start="895" selection-end="895" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="3077">
           <folding>
@@ -258,21 +372,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Partners.html">
+    <entry file="file://$PROJECT_DIR$/public/Partners.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="82" column="26" selection-start="3931" selection-end="3931" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="5746">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Careers.html">
+    <entry file="file://$PROJECT_DIR$/public/Careers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="90" column="12" selection-start="5649" selection-end="5649" vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2176">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AboutUs.html">
+    <entry file="file://$PROJECT_DIR$/public/AboutUs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="9" column="17" selection-start="895" selection-end="895" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3077">
           <folding>
@@ -281,21 +395,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Partners.html">
+    <entry file="file://$PROJECT_DIR$/public/Partners.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="82" column="26" selection-start="3931" selection-end="3931" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="5746">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Careers.html">
+    <entry file="file://$PROJECT_DIR$/public/Careers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="90" column="12" selection-start="5649" selection-end="5649" vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2176">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AboutUs.html">
+    <entry file="file://$PROJECT_DIR$/public/AboutUs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="33" selection-start="3891" selection-end="3891" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3077">
           <folding>
@@ -304,21 +418,21 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Partners.html">
+    <entry file="file://$PROJECT_DIR$/public/Partners.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="82" column="26" selection-start="3931" selection-end="3931" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="5746">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Careers.html">
+    <entry file="file://$PROJECT_DIR$/public/Careers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="90" column="12" selection-start="5649" selection-end="5649" vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2176">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AboutUs.html">
+    <entry file="file://$PROJECT_DIR$/public/AboutUs.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="76" column="33" selection-start="3891" selection-end="3891" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="3077">
           <folding>
@@ -327,42 +441,95 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Partners.html">
+    <entry file="file://$PROJECT_DIR$/public/Partners.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="82" column="26" selection-start="3931" selection-end="3931" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="5746">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Careers.html">
+    <entry file="file://$PROJECT_DIR$/public/Careers.html">
       <provider selected="true" editor-type-id="text-editor">
         <state line="90" column="12" selection-start="5649" selection-end="5649" vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2176">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Home.html">
+    <entry file="file://$PROJECT_DIR$/public/css/layoutcontainer.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="75" column="77" selection-start="3817" selection-end="3817" vertical-scroll-proportion="-39.23077" vertical-offset="255" max-vertical-offset="2448" />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Partners.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state line="82" column="26" selection-start="3931" selection-end="3931" vertical-scroll-proportion="0.0" vertical-offset="459" max-vertical-offset="5746">
+        <state line="0" column="0" selection-start="0" selection-end="0" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="850">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/Careers.html">
+    <entry file="file://$PROJECT_DIR$/public/css/site.less">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="90" column="12" selection-start="5649" selection-end="5649" vertical-scroll-proportion="0.0" vertical-offset="1530" max-vertical-offset="2176">
+        <state line="2" column="11" selection-start="66" selection-end="66" vertical-scroll-proportion="0.044678055" vertical-offset="0" max-vertical-offset="761">
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/AboutUs.html">
+    <entry file="file://$PROJECT_DIR$/.gitignore">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="9" column="17" selection-start="895" selection-end="895" vertical-scroll-proportion="0.0" vertical-offset="153" max-vertical-offset="3077">
+        <state line="1" column="18" selection-start="26" selection-end="26" vertical-scroll-proportion="0.021601016" vertical-offset="0" max-vertical-offset="787">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/bower.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="19" column="0" selection-start="354" selection-end="354" vertical-scroll-proportion="0.41304347" vertical-offset="0" max-vertical-offset="782">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/custom.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="3" column="66" selection-start="321" selection-end="321" vertical-scroll-proportion="0.063118815" vertical-offset="0" max-vertical-offset="808">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/css/color_1.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="6" column="0" selection-start="67" selection-end="148" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="1003">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/js/imageSwap.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="0" column="0" selection-start="2" selection-end="1086" vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="808">
+          <folding>
+            <element signature="n#!!doc" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Careers.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="69" column="45" selection-start="3718" selection-end="3718" vertical-scroll-proportion="-9.846154" vertical-offset="917" max-vertical-offset="2176">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="75" column="57" selection-start="3799" selection-end="3799" vertical-scroll-proportion="-9.846154" vertical-offset="1019" max-vertical-offset="2448">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/Partners.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="88" column="5" selection-start="4411" selection-end="4411" vertical-scroll-proportion="-13.115385" vertical-offset="1155" max-vertical-offset="5746">
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/public/AboutUs.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state line="93" column="27" selection-start="5920" selection-end="5920" vertical-scroll-proportion="0.33289987" vertical-offset="1325" max-vertical-offset="3077">
           <folding>
             <element signature="n#style#0;n#span#2;n#div#0;n#td#2;n#tr#0;n#tbody#0;n#table#0;n#div#0;n#div#3;n#div#0;n#div#0;n#div#10;n#div#2;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
