@@ -1,0 +1,38 @@
+@import url(http://fonts.googleapis.com/css?family=Share+Tech);
+@import url(http://fonts.googleapis.com/css?family=Varela+Round);
+
+.logos{
+border:1px solid #efefef;
+}
+
+.sf_footer{
+width: 960px;
+padding:15px 0px 15px 0px;
+}
+
+.sf_navigation ul li a {
+    border: medium none;}
+
+body{font-family: 'Share Tech', sans-serif;}
+
+.sf_navigation {font-family: 'Varela Round', sans-serif;}
+
+
+.sf_navigation ul li a {
+    font-size: 23px;
+    margin-left: 7px;
+    margin-right: 7px;
+    text-transform: uppercase;}
+
+
+.sf_navigation #Nav1 > li {
+    border-right: 0 solid rgba(144, 178, 247, 0.5);
+}
+
+.sf_content {
+    font-size: 20px;
+    line-height: 25px;}
+
+.sf_navigation ul li a {
+    border-right: 0 solid rgba(50, 95, 186, 0.5);
+}
