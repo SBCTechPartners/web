@@ -195,7 +195,11 @@
       <created>1393529139463</created>
       <updated>1393529139463</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="initial commit&#10;# Please enter the commit message for your changes. Lines starting&#10;# with '#' will be ignored, and an empty message aborts the commit.&#10;# On branch master&#10;#&#10;# Initial commit&#10;#&#10;# Changes to be committed:&#10;#   (use &quot;git rm --cached &lt;file&gt;...&quot; to unstage)&#10;#&#10;#&#9;new file:   .idea/.name&#10;#&#9;new file:   .idea/SBCTechPartners.iml&#10;#&#9;new file:   .idea/encodings.xml&#10;#&#9;new file:   .idea/inspectionProfiles/Project_Default.xml&#10;#&#9;new file:   .idea/inspectionProfiles/profiles_settings.xml&#10;#&#9;new file:   .idea/misc.xml&#10;#&#9;new file:   .idea/modules.xml&#10;#&#9;new file:   .idea/scopes/scope_settings.xml&#10;#&#9;new file:   .idea/vcs.xml&#10;#&#9;new file:   .idea/workspace.xml&#10;#&#9;new file:   AboutUs.html&#10;#&#9;new file:   Careers.html&#10;#&#9;new file:   Home.html&#10;#&#9;new file:   Partners.html&#10;#&#9;new file:   css/WstUserAdvancedStyles.css&#10;#&#9;new file:   css/color_1.css&#10;#&#9;new file:   css/custom.css&#10;#&#9;new file:   css/layoutcontainer.css&#10;#&#9;new file:   css/theme.css&#10;#&#9;new file:   img/452.png&#10;#&#9;new file:   img/board.jpg&#10;#&#9;new file:   img/cords.jpg&#10;#&#9;new file:   img/l_0000_a.jpg&#10;#&#9;new file:   img/l_0001_b.jpg&#10;#&#9;new file:   img/l_0002_c.jpg&#10;#&#9;new file:   img/l_0003_d.jpg&#10;#&#9;new file:   img/l_0004_e.jpg&#10;#&#9;new file:   img/l_0005_f.jpg&#10;#&#9;new file:   img/l_0006_g.jpg&#10;#&#9;new file:   img/l_0007_h.jpg&#10;#&#9;new file:   img/l_0008_i.jpg&#10;#&#9;new file:   img/sbc.png&#10;#&#9;new file:   img/sbc_4r4l.png&#10;#&#9;new file:   js/imageSwap.js&#10;#&#10;">
+      <created>1393529334261</created>
+      <updated>1393529334261</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="ToolWindowManager">
