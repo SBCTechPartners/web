@@ -44,11 +44,11 @@
          <div style="display:inline-block;clear:both;">
             <h1>Welcome to SBC Tech Partners</h1>
          </div>
-         <div style="display:inline-block;clear:both;"><img src="./img/vosb.jpg" style="vertical-align:-50px;margin-left:200px;" width="125px"></div>
+         <div style="display:inline-block;clear:both;"><img src="./img/vosb.jpg" style="vertical-align:-50px;margin-left:250px;" width="125px"></div>
       </div>
       <span>
          SBC Tech Partners Inc. is a CVE certified Veteran Owned Small Business (VOSB) started specifically to provide our customers with services and solutions from a company with strong core values and work ethics that reflect integrity, accountability and respect. We pride ourselves as a professional services firm providing specialized information technology and management consulting solutions while providing our customers the best possible service and Value Added Resale of some of the most trusted names in Information Technology. <br/><br/>
-         <div style="float:right;"><a class="twitter-timeline" href="https://twitter.com/SBCTechPartners" data-widget-id="458954743239307265">Tweets by @SBCTechPartners</a></div>
+         <div style="float:right;"><a class="twitter-timeline" href="https://twitter.com/SBCTechPartners" data-widget-id="458954743239307265" data-theme="light">Tweets by @SBCTechPartners</a></div>
       </span>
       <div style="text-align: center;">
          <span><img alt="" src="img/452.png"></span><br/>
@@ -84,6 +84,18 @@
 </div>
 
 <script type="application/javascript">
+   function resizeMe() {
+      var body = document.getElementById("content");
+      var height = window.innerHeight;
+      var newHeight = (height - 397) + 'px';
+      body.style.height = newHeight;
+   }
+
+   window.onload = window.onresize = function() {
+      resizeMe();
+   }
+
+   /* Twitter */
    !function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+"://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
 </script>
 </body>

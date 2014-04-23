@@ -295,5 +295,18 @@
    </table>
 </div>
 </div>
+
+<script type="application/javascript">
+   function resizeMe() {
+      var body = document.getElementById("content");
+      var height = window.innerHeight;
+      var newHeight = (height - 397) + 'px';
+      body.style.height = newHeight;
+   }
+
+   window.onload = window.onresize = function() {
+      resizeMe();
+   }
+</script>
 </body>
 </html>
