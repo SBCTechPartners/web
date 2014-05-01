@@ -34,6 +34,7 @@ input[type="text"] { border:solid 1px #c2c1c1; }
 
 #header {
   color:#919090;
+  height:213px;
   font-size:56px;
   letter-spacing:-.05em;
   padding-top: 10px;
@@ -66,7 +67,8 @@ input[type="text"] { border:solid 1px #c2c1c1; }
 
 #footer {
   display:block;
-  width: 960px;
+  height:81px;
+  width: 100%; //960px;
   padding:15px 0px 15px 0px;
   background:#eaeaea; /* old browsers */
   background:-moz-linear-gradient(top, #eaeaea 0%, #d6d6d6 100%); /* firefox */
@@ -82,13 +84,19 @@ input[type="text"] { border:solid 1px #c2c1c1; }
   position:relative;
   text-align:right;
   text-shadow:1px 1px 0 #f5f5f5;
-  _width:929px;
+  //_width: 95%; //929px;
   zoom:1;
 }
 
+.footerTable {
+//  width: 100%; // 900px;
+  padding: 0px 15px 0px 15px;
+  width:100%;
+}
+
 #wrapper {
-  margin:0 auto;
-  width:960px;
+  padding: 10px 20px 10px 20px;
+//  width: 95%; //960px;
 }
 .wrapper:after {
   content:".";
@@ -106,7 +114,7 @@ input[type="text"] { border:solid 1px #c2c1c1; }
 .widgetset .widget {
   margin:0;
   padding:0 0 30px;
-  width:190px;
+//  width:190px;
 }
 .widgetset .widget_header {
   background:#eaeaea; /* old browsers */
@@ -125,7 +133,7 @@ input[type="text"] { border:solid 1px #c2c1c1; }
 .widgetset .widget_header a { text-decoration:none; }
 .widgetset .widget_content {
   overflow:hidden;
-  width:190px;
+//  width:190px;
 }
 
 #navigation {
@@ -134,7 +142,7 @@ input[type="text"] { border:solid 1px #c2c1c1; }
   border-style:solid;
   border-width:1px 1px 0;
   margin-left:-1px;
-  width: 958px;
+//  width: 95%; // 958px;
   margin-top: 20px;
   margin-bottom: 0;
   padding-bottom: 0;

@@ -18,75 +18,23 @@
          content="Check out http://sbctechpartners.com!  SBC Tech Partners provides our customers with services and solutions pride ourselves as a professional services firm providing specialized information technology and management consulting solutions.">
    <meta http-equiv="Content-Location" content="careers.html">
    <link rel="stylesheet" type="text/css" href="./site.css">
+   <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.11.0/jquery.min.js"></script>
+   <script src="./libs/handlebars.runtime-v1.3.0.js"></script>
+   <script src="./templates/templates.min.js"></script>
+   <script src="main.min.js"></script>
 </head>
 <body>
 <div id="wrapper">
-<div id="header">
-   <div style="display:block;"><img alt="" src="./img/sbc.png"></div>
-   <div id="navigation">
-      <div class="widget main_nav"><h3 class="widget_header"><span>Main Navigation</span></h3>
-
-         <div class="widget_content">
-            <div style="display:block;">
-               <ul id="Nav1" class="nav">
-                  <li class="sf_first_nav_item"><a href="./index.html" target="_self">Home</a>
-                  </li>
-                  <li class=""><a href="./about.html" target="_self">About</a></li>
-                  <li class=""><a href="./partners.html" target="_self">Partners</a></li>
-                  <li class="active"><a href="./careers.html" target="_self">Careers</a></li>
-                  <li class=" sf_last_nav_item" style="float:right;"><a href="https://login.microsoftonline.com/" target="_self" onclick="">Login</a>
-                  </li>
-               </ul>
-            </div>
-         </div>
-      </div>
-   </div>
-</div>
-<div id="content" style="display:block;overflow:hidden;">
-   <div style="float: left; margin-right: 15px;"><img alt="" src="img/board.jpg"></div>
-   <h3>Opportunities coming soon.....
-   </h3>
-   Currently we do not have any openings however if you are an IT professional and would like to
-   submit your resume for future openings please submit your resume to <a target="_blank" href="mailto:careers@sbctechpartners.com">careers@sbctechpartners.com</a>
-</div>
-<div id="footer">
-   <table cellspacing="1" cellpadding="1" border="0" style="width: 900px; margin: auto;">
-      <tbody>
-      <tr>
-         <td align="center" style="width: 33%;">&nbsp;<img alt="" width="191" height="74" src="img/sbc_4r4l.png"></td>
-         <td align="center" style="width: 33%;">
-            <h2 style="text-align: center;"><span style="font-size:16pt;">Your technology partners</span></h2>
-         </td>
-         <td align="center" style="width: 33%;">
-            <div style="text-align: right;">
-               723 Grant St. Herndon, VA 20170<br/>
-                  <span>
-                     <span id="gc-number-0" class="gc-cs-link" title="Call with Google Voice">703.539.6150</span>
-                  </span><br/>
-               <a href="mailto:sales@sbctechpartners.com"><span>sales@sbctechpartners.com</span></a><br/>
-               Content copyright
-               <script type="text/javascript">document.write(new Date().getFullYear());</script>
-               . <span style="font-size: 14px;"><b>SBCTECHPARTNERS.COM</b></span><br/>
-               All rights reserved.
-            </div>
-         </td>
-      </tr>
-      </tbody>
-   </table>
-</div>
+   <header id="header"></header>
+   <article id="content" style="display:block;overflow:hidden;">
+      <div style="float: left; margin-right: 15px;"><img alt="" src="img/board.jpg"></div>
+      <h3>Opportunities coming soon.....
+      </h3>
+      Currently we do not have any openings however if you are an IT professional and would like to
+      submit your resume for future openings please submit your resume to <a target="_blank" href="mailto:careers@sbctechpartners.com">careers@sbctechpartners.com</a>
+   </article>
+   <footer id="footer"></footer>
 </div>
 
-<script type="application/javascript">
-   function resizeMe() {
-      var body = document.getElementById("content");
-      var height = window.innerHeight;
-      var newHeight = (height - 397) + 'px';
-      body.style.height = newHeight;
-   }
-
-   window.onload = window.onresize = function() {
-      resizeMe();
-   }
-</script>
 </body>
 </html>
