@@ -22,6 +22,9 @@ window.onload = function() {
       case '/careers.html':
          options = {careers: "active"};
          break;
+      case '/vehicles.html':
+         options = {vehicles: "active"};
+         break;
    }
 
    var headerHtml = Handlebars.templates['header'](options);

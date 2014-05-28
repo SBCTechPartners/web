@@ -1,3 +1,4 @@
 .idea/*
 config.codekit
 *.css
+.codekit-cache
