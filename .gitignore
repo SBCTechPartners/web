@@ -2,3 +2,4 @@
 config.codekit
 *.css
 .codekit-cache
+bower_components
