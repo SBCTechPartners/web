@@ -39,7 +39,7 @@ helpers = this.merge(helpers, Handlebars.helpers); data = data || {};
   if (helper = helpers.careers) { stack1 = helper.call(depth0, {hash:{},data:data}); }
   else { helper = (depth0 && depth0.careers); stack1 = typeof helper === functionType ? helper.call(depth0, {hash:{},data:data}) : helper; }
   buffer += escapeExpression(stack1)
-    + "\"><a href=\"./careers.html\" target=\"_self\">Careers</a></li>\n         <li class=\" sf_last_nav_item\" style=\"float:right;\"><a href=\"https://login.microsoftonline.com/\" target=\"_self\" onclick=\"\">Login</a></li>\n      </ul>\n   </nav>\n";
+    + "\"><a href=\"./careers.html\" target=\"_self\">Careers</a></li>\n         <li class=\"sf_last_nav_item\" style=\"float:right;\"><a href=\"https://login.microsoftonline.com/\" target=\"_self\" onclick=\"\">Login</a></li>\n      </ul>\n   </nav>\n";
   return buffer;
   });
 })();
