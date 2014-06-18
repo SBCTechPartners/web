@@ -280,39 +280,6 @@
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
 		},
-	"\/app\/js\/handlebars.runtime-v1.3.0.min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/js\/handlebars.runtime-v1.3.0.min.js",
-		"outputAbbreviatedPath": "\/app\/js\/handlebars.runtime-v1.3.0.min.min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/app\/js\/main.min.min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/js\/main.min.min.js",
-		"outputAbbreviatedPath": "\/app\/js\/main.min.min.min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
-	"\/app\/js\/templates.min.min.js": {
-		"fileType": 64,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/js\/templates.min.min.js",
-		"outputAbbreviatedPath": "\/app\/js\/templates.min.min.min.js",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0,
-		"outputStyle": 1,
-		"syntaxCheckerStyle": 1
-		},
 	"\/app\/partners.html": {
 		"fileType": 8192,
 		"ignore": 1,

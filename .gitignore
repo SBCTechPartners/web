@@ -1,4 +1,5 @@
 .idea/*
+old
 build/bower_components
 config.codekit
 .codekit-cache
