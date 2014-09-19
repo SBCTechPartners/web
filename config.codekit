@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "17625",
+"creatorBuild": "17756",
 "files": {
 	"\/app\/capabilities.html": {
 		"fileType": 8192,
@@ -25,6 +25,15 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/css\/app.css",
+		"outputAbbreviatedPath": "No Output Path",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/app\/customers.html": {
+		"fileType": 8192,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/customers.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -62,6 +71,182 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/customers\/columbus.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 57151,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/columbus.png",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/columbus.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/ESVBA.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 5962,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/ESVBA.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/ESVBA.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/fcwa.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 9665,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/fcwa.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/fcwa.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/Navy.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 123121,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/Navy.png",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/Navy.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/Norfolk_NRHA.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 26581,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/Norfolk_NRHA.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/Norfolk_NRHA.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/norfolk_state.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20139,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/norfolk_state.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/norfolk_state.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/NV_DMV.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6576,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/NV_DMV.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/NV_DMV.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/NVTA.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 10597,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/NVTA.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/NVTA.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/ODU.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 20232,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/ODU.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/ODU.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/UVA.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 6878,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/UVA.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/UVA.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/VA.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 92783,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/VA.png",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/VA.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/VA_Dept_of_Corrections.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 54417,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/VA_Dept_of_Corrections.png",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/VA_Dept_of_Corrections.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/VA_Dept_of_Fire_Programs.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 8086,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/VA_Dept_of_Fire_Programs.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/VA_Dept_of_Fire_Programs.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/VA_State_Police.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 17940,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/VA_State_Police.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/VA_State_Police.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/customers\/Waterbury_Connecticut.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 134866,
+		"inputAbbreviatedPath": "\/app\/img\/customers\/Waterbury_Connecticut.png",
+		"outputAbbreviatedPath": "\/app\/img\/customers\/Waterbury_Connecticut.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/HP_Partner.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 7268,
+		"inputAbbreviatedPath": "\/app\/img\/HP_Partner.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/HP_Partner.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/network.png": {
 		"fileType": 32768,
 		"ignore": 0,
@@ -84,6 +269,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/partners\/adobe.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 38300,
+		"inputAbbreviatedPath": "\/app\/img\/partners\/adobe.png",
+		"outputAbbreviatedPath": "\/app\/img\/partners\/adobe.png",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/partners\/arista.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -91,6 +287,17 @@
 		"initialSize": 16660,
 		"inputAbbreviatedPath": "\/app\/img\/partners\/arista.jpg",
 		"outputAbbreviatedPath": "\/app\/img\/partners\/arista.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/partners\/aws.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 23417,
+		"inputAbbreviatedPath": "\/app\/img\/partners\/aws.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/partners\/aws.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -110,9 +317,20 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 20261,
+		"initialSize": 24347,
 		"inputAbbreviatedPath": "\/app\/img\/partners\/cisco.jpg",
 		"outputAbbreviatedPath": "\/app\/img\/partners\/cisco.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/partners\/dell.jpg": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 16288,
+		"inputAbbreviatedPath": "\/app\/img\/partners\/dell.jpg",
+		"outputAbbreviatedPath": "\/app\/img\/partners\/dell.jpg",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -139,13 +357,13 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
-	"\/app\/img\/partners\/microsoft.jpg": {
-		"fileType": 16384,
+	"\/app\/img\/partners\/microsoft.png": {
+		"fileType": 32768,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 29535,
-		"inputAbbreviatedPath": "\/app\/img\/partners\/microsoft.jpg",
-		"outputAbbreviatedPath": "\/app\/img\/partners\/microsoft.jpg",
+		"initialSize": 31770,
+		"inputAbbreviatedPath": "\/app\/img\/partners\/microsoft.png",
+		"outputAbbreviatedPath": "\/app\/img\/partners\/microsoft.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -205,6 +423,17 @@
 		"outputPathIsSetByUser": 0,
 		"processed": 0
 		},
+	"\/app\/img\/SECAF_LOGO.JPG": {
+		"fileType": 16384,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 45271,
+		"inputAbbreviatedPath": "\/app\/img\/SECAF_LOGO.JPG",
+		"outputAbbreviatedPath": "\/app\/img\/SECAF_LOGO.JPG",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
 	"\/app\/img\/swam_header.jpg": {
 		"fileType": 16384,
 		"ignore": 0,
@@ -223,6 +452,17 @@
 		"initialSize": 90299,
 		"inputAbbreviatedPath": "\/app\/img\/SWaM_Logo.jpg",
 		"outputAbbreviatedPath": "\/app\/img\/SWaM_Logo.jpg",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"processed": 0
+		},
+	"\/app\/img\/vehicles\/gsa70.png": {
+		"fileType": 32768,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"initialSize": 37909,
+		"inputAbbreviatedPath": "\/app\/img\/vehicles\/gsa70.png",
+		"outputAbbreviatedPath": "\/app\/img\/vehicles\/gsa70.png",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"processed": 0
@@ -271,10 +511,21 @@
 		},
 	"\/app\/js\/app.min.js": {
 		"fileType": 64,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/js\/app.min.js",
-		"outputAbbreviatedPath": "\/public\/js\/app.min-min.js",
+		"outputAbbreviatedPath": "\/app\/js\/app.min.min.js",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0,
+		"outputStyle": 1,
+		"syntaxCheckerStyle": 1
+		},
+	"\/app\/js\/main.min.js": {
+		"fileType": 64,
+		"ignore": 1,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/app\/js\/main.min.js",
+		"outputAbbreviatedPath": "\/app\/js\/main.min.min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -289,11 +540,11 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/app\/vehicles.html": {
+	"\/app\/services.html": {
 		"fileType": 8192,
 		"ignore": 1,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/app\/vehicles.html",
+		"inputAbbreviatedPath": "\/app\/services.html",
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
@@ -303,7 +554,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/build\/js\/app.js",
-		"outputAbbreviatedPath": "\/public\/js\/app-min.js",
+		"outputAbbreviatedPath": "\/app\/js\/app.min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
@@ -311,23 +562,14 @@
 		},
 	"\/build\/js\/main.js": {
 		"fileType": 64,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/build\/js\/main.js",
-		"outputAbbreviatedPath": "\/public\/js\/main-min.js",
+		"outputAbbreviatedPath": "\/app\/js\/main.min.js",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0,
 		"outputStyle": 1,
 		"syntaxCheckerStyle": 1
-		},
-	"\/build\/kits\/capabilities.kit": {
-		"fileType": 2048,
-		"ignore": 0,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/kits\/capabilities.kit",
-		"outputAbbreviatedPath": "\/app\/capabilities.html",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		},
 	"\/build\/kits\/careers.kit": {
 		"fileType": 2048,
@@ -335,6 +577,15 @@
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/build\/kits\/careers.kit",
 		"outputAbbreviatedPath": "\/app\/careers.html",
+		"outputPathIsOutsideProject": 0,
+		"outputPathIsSetByUser": 0
+		},
+	"\/build\/kits\/customers.kit": {
+		"fileType": 2048,
+		"ignore": 0,
+		"ignoreWasSetByUser": 0,
+		"inputAbbreviatedPath": "\/build\/kits\/customers.kit",
+		"outputAbbreviatedPath": "\/app\/customers.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -374,12 +625,12 @@
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
-	"\/build\/kits\/vehicles.kit": {
+	"\/build\/kits\/services.kit": {
 		"fileType": 2048,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/build\/kits\/vehicles.kit",
-		"outputAbbreviatedPath": "\/app\/vehicles.html",
+		"inputAbbreviatedPath": "\/build\/kits\/services.kit",
+		"outputAbbreviatedPath": "\/app\/services.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -596,6 +847,10 @@
 			"active": 0,
 			"flagValue": -1
 			},
+		"prefer_english_operator": {
+			"active": 0,
+			"flagValue": -1
+			},
 		"space_operators": {
 			"active": 0,
 			"flagValue": -1
@@ -629,8 +884,8 @@
 	"jadeCompileDebug": 1,
 	"jadeOutputStyle": 0,
 	"javascriptAutoOutputPathEnabled": 1,
-	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
-	"javascriptAutoOutputPathRelativePath": "\/public\/js",
+	"javascriptAutoOutputPathFilenamePattern": "*.min.js",
+	"javascriptAutoOutputPathRelativePath": "\/app\/js",
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
 	"javascriptAutoOutputPathStyle": 1,
@@ -1071,6 +1326,7 @@
 	"stylusAutoOutputPathReplace1": "stylus",
 	"stylusAutoOutputPathReplace2": "css",
 	"stylusAutoOutputPathStyle": 2,
+	"stylusCreateSourceMap": 0,
 	"stylusDebugStyle": 0,
 	"stylusImportCSS": 0,
 	"stylusOutputStyle": 0,
