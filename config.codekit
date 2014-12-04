@@ -1,6 +1,6 @@
 {
 "CodeKitInfo": "This is a CodeKit 2.x project configuration file. It is designed to sync project settings across multiple machines. MODIFYING THE CONTENTS OF THIS FILE IS A POOR LIFE DECISION. If you do so, you will likely cause CodeKit to crash. This file is not useful unless accompanied by the project that created it in CodeKit 2. This file is not backwards-compatible with CodeKit 1.x. For more information, see: http:\/\/incident57.com\/codekit",
-"creatorBuild": "17756",
+"creatorBuild": "18027",
 "files": {
 	"\/app\/capabilities.html": {
 		"fileType": 8192,
@@ -13,7 +13,7 @@
 		},
 	"\/app\/careers.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/careers.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -31,7 +31,7 @@
 		},
 	"\/app\/customers.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/customers.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -284,7 +284,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 9082,
+		"initialSize": 16660,
 		"inputAbbreviatedPath": "\/app\/img\/partners\/arista.jpg",
 		"outputAbbreviatedPath": "\/app\/img\/partners\/arista.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -328,7 +328,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 17459,
+		"initialSize": 16288,
 		"inputAbbreviatedPath": "\/app\/img\/partners\/dell.jpg",
 		"outputAbbreviatedPath": "\/app\/img\/partners\/dell.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -339,7 +339,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8671,
+		"initialSize": 14967,
 		"inputAbbreviatedPath": "\/app\/img\/partners\/juniper.jpg",
 		"outputAbbreviatedPath": "\/app\/img\/partners\/juniper.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -372,7 +372,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 9963,
+		"initialSize": 17797,
 		"inputAbbreviatedPath": "\/app\/img\/partners\/netapp.jpg",
 		"outputAbbreviatedPath": "\/app\/img\/partners\/netapp.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -383,7 +383,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 8711,
+		"initialSize": 16249,
 		"inputAbbreviatedPath": "\/app\/img\/partners\/paloalto.jpg",
 		"outputAbbreviatedPath": "\/app\/img\/partners\/paloalto.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -394,7 +394,7 @@
 		"fileType": 16384,
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
-		"initialSize": 7262,
+		"initialSize": 13922,
 		"inputAbbreviatedPath": "\/app\/img\/partners\/vmware.jpg",
 		"outputAbbreviatedPath": "\/app\/img\/partners\/vmware.jpg",
 		"outputPathIsOutsideProject": 0,
@@ -502,7 +502,7 @@
 		},
 	"\/app\/index.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/index.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -533,7 +533,7 @@
 		},
 	"\/app\/partners.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/partners.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -542,7 +542,7 @@
 		},
 	"\/app\/services.html": {
 		"fileType": 8192,
-		"ignore": 0,
+		"ignore": 1,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/app\/services.html",
 		"outputAbbreviatedPath": "No Output Path",
@@ -576,7 +576,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/build\/kits\/careers.kit",
-		"outputAbbreviatedPath": "\/public\/careers.html",
+		"outputAbbreviatedPath": "\/app\/careers.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -585,7 +585,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/build\/kits\/customers.kit",
-		"outputAbbreviatedPath": "\/public\/customers.html",
+		"outputAbbreviatedPath": "\/app\/customers.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -594,25 +594,25 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/build\/kits\/index.kit",
-		"outputAbbreviatedPath": "\/public\/index.html",
+		"outputAbbreviatedPath": "\/app\/index.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/build\/kits\/partials\/footer.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/build\/kits\/partials\/footer.kit",
-		"outputAbbreviatedPath": "\/public\/footer.html",
+		"outputAbbreviatedPath": "\/app\/footer.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
 	"\/build\/kits\/partials\/header.kit": {
 		"fileType": 2048,
-		"ignore": 1,
+		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/build\/kits\/partials\/header.kit",
-		"outputAbbreviatedPath": "\/public\/header.html",
+		"outputAbbreviatedPath": "\/app\/header.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -621,7 +621,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/build\/kits\/partners.kit",
-		"outputAbbreviatedPath": "\/public\/partners.html",
+		"outputAbbreviatedPath": "\/app\/partners.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -630,7 +630,7 @@
 		"ignore": 0,
 		"ignoreWasSetByUser": 0,
 		"inputAbbreviatedPath": "\/build\/kits\/services.kit",
-		"outputAbbreviatedPath": "\/public\/services.html",
+		"outputAbbreviatedPath": "\/app\/services.html",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
 		},
@@ -702,23 +702,14 @@
 		"outputAbbreviatedPath": "No Output Path",
 		"outputPathIsOutsideProject": 0,
 		"outputPathIsSetByUser": 0
-		},
-	"\/public\/partners.html": {
-		"fileType": 8192,
-		"ignore": 1,
-		"ignoreWasSetByUser": 0,
-		"inputAbbreviatedPath": "\/public\/partners.html",
-		"outputAbbreviatedPath": "No Output Path",
-		"outputPathIsOutsideProject": 0,
-		"outputPathIsSetByUser": 0
 		}
 	},
 "hooks": [
 	{
-		"enabled": 1,
+		"enabled": 0,
 		"hookType": 1,
 		"name": "Handlebars Precompilation",
-		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGb3BYJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMjY7PEFFS1BRVlxhZmpVJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy8wMV8QEE5TU2VsZkV4cHJlc3Npb25cTlNFeHByZXNzaW9uWE5TT2JqZWN00hALMzWhNIAJgAzTCx83ODk6WU5TS2V5UGF0aIALEAqACl1pbnB1dEZpbGVuYW1l0issPT5fEBxOU0tleVBhdGhTcGVjaWZpZXJFeHByZXNzaW9uoz9AMV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb25cTlNFeHByZXNzaW9u0issQkNeTlNNdXRhYmxlQXJyYXmjQkQxV05TQXJyYXnSKyxGR18QE05TS2V5UGF0aEV4cHJlc3Npb26kSElKMV8QE05TS2V5UGF0aEV4cHJlc3Npb25fEBROU0Z1bmN0aW9uRXhwcmVzc2lvblxOU0V4cHJlc3Npb27TTB8LTU5PXxAPTlNDb25zdGFudFZhbHVlgA8QAIAQWmhhbmRsZWJhcnPSKyxSU18QGU5TQ29uc3RhbnRWYWx1ZUV4cHJlc3Npb26jVFUxXxAZTlNDb25zdGFudFZhbHVlRXhwcmVzc2lvblxOU0V4cHJlc3Npb27UC1dYWVpOKFtaTlNNb2RpZmllcldOU0ZsYWdzXk5TT3BlcmF0b3JUeXBlgBIQY9IrLF1eXxAVTlNJblByZWRpY2F0ZU9wZXJhdG9yo19gMV8QFU5TSW5QcmVkaWNhdGVPcGVyYXRvcl8QE05TUHJlZGljYXRlT3BlcmF0b3LSKyxiY18QFU5TQ29tcGFyaXNvblByZWRpY2F0ZaNkZTFfEBVOU0NvbXBhcmlzb25QcmVkaWNhdGVbTlNQcmVkaWNhdGXSKyxnaFdOU0FycmF5omkxV05TQXJyYXnSKyxrbF8QE05TQ29tcG91bmRQcmVkaWNhdGWjbW4xXxATTlNDb21wb3VuZFByZWRpY2F0ZVtOU1ByZWRpY2F0ZV8QD05TS2V5ZWRBcmNoaXZlctFxclRyb290gAEACAARABoAIwAtADIANwBQAFYAXQB3AIkAkACSAJQAlgCbAKYAqACqAKwAtQDJANwA8gD0APYA+AD6AQUBDwEeATEBPQE\/AUEBQwFFAUcBVAFZAVsBXQFiAW0BdgGJAY0BoAGtAbYBuwG9Ab8BwQHIAdIB1AHWAdgB5gHrAgoCDgItAjoCPwJOAlICWgJfAnUCegKQAqcCtAK7As0CzwLRAtMC3gLjAv8DAwMfAywDNQNAA0gDVwNZA1sDYAN4A3wDlAOqA68DxwPLA+MD7wP0A\/wD\/wQHBAwEIgQmBDwESARaBF0EYgAAAAAAAAIBAAAAAAAAAHMAAAAAAAAAAAAAAAAAAARk",
+		"predicateDataBase64Encoded": "YnBsaXN0MDDUAQIDBAUGbW5YJHZlcnNpb25YJG9iamVjdHNZJGFyY2hpdmVyVCR0b3ASAAGGoK8QFgcIDxQcJicqMjY7PEFFS1BRVlxhZmhVJG51bGzTCQoLDA0OXxAXTlNDb21wb3VuZFByZWRpY2F0ZVR5cGVfEA9OU1N1YnByZWRpY2F0ZXNWJGNsYXNzEAKAAoAV0hALERNaTlMub2JqZWN0c6ESgAOAFNQLFRYXGBkaG18QEU5TUmlnaHRFeHByZXNzaW9uXxAQTlNMZWZ0RXhwcmVzc2lvbl8QE05TUHJlZGljYXRlT3BlcmF0b3KAE4AOgASAEdUdHh8gCyEiIyQlWU5TT3BlcmFuZF5OU1NlbGVjdG9yTmFtZV8QEE5TRXhwcmVzc2lvblR5cGVbTlNBcmd1bWVudHOABoAFEAOACIANXHZhbHVlRm9yS2V5OtIfCygpEAGAB9IrLC0uWiRjbGFzc25hbWVYJGNsYXNzZXNfEBBOU1NlbGZFeHByZXNzaW9uoy8wMV8QEE5TU2VsZkV4cHJlc3Npb25cTlNFeHByZXNzaW9uWE5TT2JqZWN00hALMzWhNIAJgAzTCx83ODk6WU5TS2V5UGF0aIALEAqACl1pbnB1dEZpbGVuYW1l0issPT5fEBxOU0tleVBhdGhTcGVjaWZpZXJFeHByZXNzaW9uoz9AMV8QHE5TS2V5UGF0aFNwZWNpZmllckV4cHJlc3Npb25cTlNFeHByZXNzaW9u0issQkNeTlNNdXRhYmxlQXJyYXmjQkQxV05TQXJyYXnSKyxGR18QE05TS2V5UGF0aEV4cHJlc3Npb26kSElKMV8QE05TS2V5UGF0aEV4cHJlc3Npb25fEBROU0Z1bmN0aW9uRXhwcmVzc2lvblxOU0V4cHJlc3Npb27TTB8LTU5PXxAPTlNDb25zdGFudFZhbHVlgA8QAIAQWmhhbmRsZWJhcnPSKyxSU18QGU5TQ29uc3RhbnRWYWx1ZUV4cHJlc3Npb26jVFUxXxAZTlNDb25zdGFudFZhbHVlRXhwcmVzc2lvblxOU0V4cHJlc3Npb27UC1dYWVpOKFtaTlNNb2RpZmllcldOU0ZsYWdzXk5TT3BlcmF0b3JUeXBlgBIQY9IrLF1eXxAVTlNJblByZWRpY2F0ZU9wZXJhdG9yo19gMV8QFU5TSW5QcmVkaWNhdGVPcGVyYXRvcl8QE05TUHJlZGljYXRlT3BlcmF0b3LSKyxiY18QFU5TQ29tcGFyaXNvblByZWRpY2F0ZaNkZTFfEBVOU0NvbXBhcmlzb25QcmVkaWNhdGVbTlNQcmVkaWNhdGXSKyxEZ6JEMdIrLGlqXxATTlNDb21wb3VuZFByZWRpY2F0ZaNrbDFfEBNOU0NvbXBvdW5kUHJlZGljYXRlW05TUHJlZGljYXRlXxAPTlNLZXllZEFyY2hpdmVy0W9wVHJvb3SAAQAIABEAGgAjAC0AMgA3AFAAVgBdAHcAiQCQAJIAlACWAJsApgCoAKoArAC1AMkA3ADyAPQA9gD4APoBBQEPAR4BMQE9AT8BQQFDAUUBRwFUAVkBWwFdAWIBbQF2AYkBjQGgAa0BtgG7Ab0BvwHBAcgB0gHUAdYB2AHmAesCCgIOAi0COgI\/Ak4CUgJaAl8CdQJ6ApACpwK0ArsCzQLPAtEC0wLeAuMC\/wMDAx8DLAM1A0ADSANXA1kDWwNgA3gDfAOUA6oDrwPHA8sD4wPvA\/QD9wP8BBIEFgQsBDgESgRNBFIAAAAAAAACAQAAAAAAAABxAAAAAAAAAAAAAAAAAAAEVA==",
 		"runOrder": 0,
 		"scriptSourceString": "handlebars .\/templates -f .\/templates\/templates.js -k if",
 		"uuidString": "36F6805C-AE2B-48A8-BFBC-95C0EAF38474"
@@ -728,7 +719,7 @@
 "manualImportLinks": {
 	},
 "projectAttributes": {
-	"bowerAbbreviatedPath": "\/public",
+	"bowerAbbreviatedPath": "\/app",
 	"displayValue": "SBCTech Web",
 	"displayValueWasSetByUser": 1,
 	"iconImageName": "globe_blue"
@@ -894,7 +885,7 @@
 	"jadeOutputStyle": 0,
 	"javascriptAutoOutputPathEnabled": 1,
 	"javascriptAutoOutputPathFilenamePattern": "*-min.js",
-	"javascriptAutoOutputPathRelativePath": "\/public\/js",
+	"javascriptAutoOutputPathRelativePath": "\/app\/js",
 	"javascriptAutoOutputPathReplace1": "",
 	"javascriptAutoOutputPathReplace2": "",
 	"javascriptAutoOutputPathStyle": 1,
@@ -1276,14 +1267,14 @@
 		},
 	"kitAutoOutputPathEnabled": 1,
 	"kitAutoOutputPathFilenamePattern": "*.html",
-	"kitAutoOutputPathRelativePath": "\/public",
+	"kitAutoOutputPathRelativePath": "\/app",
 	"kitAutoOutputPathReplace1": "",
 	"kitAutoOutputPathReplace2": "",
 	"kitAutoOutputPathStyle": 1,
 	"lessAllowInsecureImports": 0,
 	"lessAutoOutputPathEnabled": 1,
 	"lessAutoOutputPathFilenamePattern": "*.css",
-	"lessAutoOutputPathRelativePath": "\/public\/css",
+	"lessAutoOutputPathRelativePath": "\/app\/css",
 	"lessAutoOutputPathReplace1": "less",
 	"lessAutoOutputPathReplace2": "css",
 	"lessAutoOutputPathStyle": 1,
@@ -1307,7 +1298,7 @@
 	"reloadFileURLs": 0,
 	"sassAutoOutputPathEnabled": 1,
 	"sassAutoOutputPathFilenamePattern": "*.css",
-	"sassAutoOutputPathRelativePath": "\/public\/css",
+	"sassAutoOutputPathRelativePath": "\/app\/css",
 	"sassAutoOutputPathReplace1": "sass",
 	"sassAutoOutputPathReplace2": "css",
 	"sassAutoOutputPathStyle": 2,
