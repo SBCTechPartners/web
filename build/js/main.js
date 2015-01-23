@@ -28,3 +28,10 @@ window.onload = function() {
 };
 
 window.onresize = function () { resizeMe(); };
+
+$(document).ready(function() {
+   // Prototype Polyfills
+   HTMLDivElement.prototype.visible = function (isVisible) {
+      this.style.display = (isVisible) ? 'block' : 'none';
+   };
+});
